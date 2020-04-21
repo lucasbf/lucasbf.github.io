@@ -1,13 +1,13 @@
 # Site settings
-title: Project Pages
-description: "An Integrated Scientific Blogging Template"
+title: XPTO 
+description: "Website pessoal sobre Tecnologia da Informação"
 url: "https://lucasbf.github.io"
 
 # Secondary Parameters
 baseurl: ""
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/logos/logo_branco.png
 
 # Tertiary Parameters
 github_username:  projectpages
